@@ -6,6 +6,6 @@
 ![image](https://user-images.githubusercontent.com/64161383/133911003-fe4b7f2c-c454-4b13-8f5b-02abbc84310e.png)
 
 
-A decentralized platform for finding and hiring the best talent.
+<p align="center">A decentralized platform for finding and hiring the best talent.</p>
 
-To take a look at the deployed application visit [jobunicorn.tech](https://jobunicorn.tech/).
+<p align="center">To take a look at the deployed application visit <a href="https://jobunicorn.tech/">jobunicorn.tech</a>.</p>
